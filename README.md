@@ -8,3 +8,7 @@ my journey learning Python
 -print function 
 -input 
 -if/else
+## day2 - Python basics
+### what i learned:
+-new arithmetic operations ( // , % , **)
+-elif
