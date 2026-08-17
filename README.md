@@ -19,4 +19,4 @@ my journey learning Python
 ## day4 -Python basics
 ### what i learned:
 -lists
--a small program that shows get 5 numbers from user and displays the list,sum, max,min and even numbers
+-a small program that get 5 numbers from user and displays the list,sum, max,min and even numbers
