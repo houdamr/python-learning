@@ -12,3 +12,11 @@ my journey learning Python
 ### what i learned:
 -new arithmetic operations ( // , % , **)
 -elif
+## day3 - Python basics
+### what i learned:
+-loops ( for,while)
+-RANGE function
+## day4 -Python basics
+### what i learned:
+-lists
+-a small program that shows get 5 numbers from user and displays the list,sum, max,min and even numbers
