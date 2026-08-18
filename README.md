@@ -20,3 +20,8 @@ my journey learning Python
 ### what i learned:
 -lists
 -a small program that get 5 numbers from user and displays the list,sum, max,min and even numbers
+## day5 -Python basics
+### what i learned:
+-functions(creating, calling)
+-RETURN function 
+-using function with conditions, loops and lists
