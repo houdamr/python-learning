@@ -25,3 +25,8 @@ my journey learning Python
 -functions(creating, calling)
 -RETURN function 
 -using function with conditions, loops and lists
+## day6 -Python basics
+### what i learned:
+-tuples 
+-dictionaries 
+
