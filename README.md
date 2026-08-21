@@ -29,4 +29,10 @@ my journey learning Python
 ### what i learned:
 -tuples 
 -dictionaries 
+## day7 -python basics
+### what i learned:
+-string
+-string with loops
+-inverse of word (using for or word[::-1]
+-functions of string(upper(),lower(),replace(),strip())
 
